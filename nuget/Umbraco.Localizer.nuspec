@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Smayke95.Umbraco.Localizer.Test</id>
+    <version>1.0.0</version>
+    <title>Umbraco.Localizer</title>
+	<description>Helper for Umbraco.GetDictionaryValue</description>
+    <authors>Smayke95</authors>
+    <owners>Smayke95</owners>
+    <projectUrl>https://github.com/Smayke95/Umbraco.Localizer</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<license type="expression">MIT</license>
+    <copyright>Copyright © Smayke95</copyright>
+	<tags>umbraco, umbraco-cms</tags>
+	<dependencies>
+	  <group targetFramework=".NETFramework4.7.2">
+		<dependency id="UmbracoCms" version="8.0.0" />
+	  </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\Umbraco.Localizer\bin\Release\Umbraco.Localizer.dll" target="lib\net472" />
+  </files>
+</package>
