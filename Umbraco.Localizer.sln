@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco.Localizer", "Umbraco.Localizer.csproj", "{D3DDB32B-60AE-4978-8330-CA8AE880DA95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco.Localizer", "Umbraco.Localizer\Umbraco.Localizer.csproj", "{3A42958E-FB65-45D4-BE95-99027D0328E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3DDB32B-60AE-4978-8330-CA8AE880DA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3DDB32B-60AE-4978-8330-CA8AE880DA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3DDB32B-60AE-4978-8330-CA8AE880DA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3DDB32B-60AE-4978-8330-CA8AE880DA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A42958E-FB65-45D4-BE95-99027D0328E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A42958E-FB65-45D4-BE95-99027D0328E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A42958E-FB65-45D4-BE95-99027D0328E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A42958E-FB65-45D4-BE95-99027D0328E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1C9ED332-7017-420D-9AC5-08C3AD9DCFA8}
+		SolutionGuid = {768C25A0-4630-4451-AAC3-DB2ECC0B898A}
 	EndGlobalSection
 EndGlobal
